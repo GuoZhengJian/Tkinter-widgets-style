@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-bilibili: 键盘侠十指如飞
+UP: 键盘侠十指如飞
 
 B站主页: https://space.bilibili.com/9570945
 
