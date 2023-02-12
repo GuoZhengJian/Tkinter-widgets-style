@@ -2,7 +2,9 @@
 """
 bilibili: 键盘侠十指如飞
 
-个人主页: https://space.bilibili.com/9570945
+B站主页: https://space.bilibili.com/9570945
+
+AcFun主页: https://www.acfun.cn/u/72762081
 """
 
 import tkinter as tk
